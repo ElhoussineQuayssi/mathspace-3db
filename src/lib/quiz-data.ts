@@ -238,7 +238,7 @@ export const quizQuestions: QuizQuestion[] = [
 incorrect: "Souvenez-vous : c'est π fois le rayon au carré.",
     },
     difficulty: "medium",
-  },
+  }]
 
   // Note: Spatial quiz questions hav];
 
